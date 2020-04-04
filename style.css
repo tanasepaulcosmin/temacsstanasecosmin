@@ -1,0 +1,61 @@
+.container {
+    display:grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 7%;
+    margin-right: 7%;
+    font-family: 'Muli', sans-serif;
+      
+}
+
+
+.first img {
+    height: 80%;
+    width: 80%;
+
+
+}
+
+.second img {
+    height: 80%;
+    width: 80%;
+    
+}
+
+.third img {
+    height: 80%;
+    width: 80%;
+}
+
+span {
+    margin-left: 5px;
+}
+
+button {
+    border: 3px solid black;
+    width: 70px;
+    height: 30px;
+
+}
+
+.cart {
+    background-color: black;
+    color: white;
+}
+
+.view {
+    background-color: white;
+    color: black;
+}
+
+.view:hover {
+    background-color: black;
+    color: white;
+}
+
+.cart:hover {
+    background-color: white;
+    color: black;
+}
+
